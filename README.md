@@ -1,68 +1,39 @@
-To create a README file based on the information you've provided, here's a structured approach you can follow:
+<h1 align="left">Hey 👋 What's up?</h1>
 
----
+###
 
-# Meghavath Mahender
+<p align="left">My name is Meghavath Mahender and I'm a fourth-year undergraduate student at Indian Institute of Information Technology, Guwahati majoring in Computer Science and Engineering.</p>
 
-- **Email:** meghavath.mahender21@iiitg.ac.in
-- **Phone:** +91 6309559732
-- **LinkedIn:** [LinkedIn Profile](your LinkedIn URL)
-- **GitHub:** [GitHub Profile](your GitHub URL)
-- **LeetCode:** [LeetCode Profile](your LeetCode URL)
+###
 
-## Education
+<h2 align="left">About me</h2>
 
-- **Bachelor of Technology in Computer Science and Engineering**
-  - Indian Institute of Information Technology, Guwahati
+###
 
-- **Intermediate**
-  - Kakatiya Junior College, Nizamabad
-  - Telangana State Board of Intermediate Education
+<p align="left">✨ Creating bugs since Dec 2021<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: To become proficient in building scalable AI applications<br>🎲 Fun fact: I enjoy exploring new cuisines and cooking in my free time.</p>
 
-## Experience
+###
 
-- **Current CPI:** 6.18 (Score: 79.0%)
+<h2 align="left">I code with</h2>
 
-### Summer Intern | Jio — Generative AI Application Development
-- Developed an AI Avatar Creation platform using React, FastAPI, and MongoDB.
-- Implemented user management features (authentication, authorization, password management).
-- Built AI features: Avatar Clone, Avatar Generation, Voice Clone, Voice Generation, Text Generation.
-- Managed user subscriptions and integrated Stripe for payment.
+###
 
-## Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-### Healthcare Information System
-- Developed an online platform for healthcare management across multiple hospitals.
-- Features include patient health record management and online appointment scheduling.
-
-### Election Management System
-- Built using Embedded JavaScript, MySQL, and Node.js for managing student elections.
-- Implemented voter and candidate registration, manifesto uploads, and secure online voting.
-
-### Migration Detection
-- Developed a machine learning model using Random Forest Regressor to detect migration trends.
-- Visualized trends using Matplotlib.
-
-### Real Estate Database Management System
-- Developed a dynamic web application using HTML, CSS, JSP, Bootstrap, and MySQL.
-- Modules include Buyers, Agents, and Sellers for property management.
-
-## Skills
-
-- **Programming Languages:** C++, C, MySQL, HTML, CSS, JavaScript, Python
-- **Machine Learning:** Python, NumPy, pandas, scikit-learn, Matplotlib, seaborn
-- **Developer Tools:** Git, VS Code, Sublime Text, Netsim
-- **Soft Skills:** Problem-Solving, Teamwork, Communication
-- **Other:** Object-Oriented Programming
-
-## Course Work
-
-- **Technical Courses:** Data Structures, Algorithms, Database Management Systems, Machine Learning, Operating Systems, Computer Networks, Software Engineering, Computer Programming, Artificial Intelligence, Computer Security
-
-## Contributions and Achievements
-
-- **Sports Coordinator for IIITG:** Organized various sports events and activities (Jan-April 2023).
-
----
-
-Feel free to adjust the content as per your preference and add links where applicable (replace `[LinkedIn Profile](your LinkedIn URL)` with your actual LinkedIn profile link, and similarly for GitHub and LeetCode). This structure should help create a comprehensive README showcasing your education, experience, projects, skills, coursework, and achievements.
+###
